@@ -3,7 +3,7 @@
 
 | Название папки | Описание     | Используемые библиотеки |
 | :---------------------| :------------------------------------------------------------------------|:------------------------|
-| Car_price_determ | Прогнозирование рыночной стоимости автомобиля для сервиса продажи машин | Pandas, numpy, matplotlib, timeit, scikit-learn, lightgbm, catboost |
+| [Car_price_determ](projects/Car_price_determ/) | Прогнозирование рыночной стоимости автомобиля для сервиса продажи машин | Pandas, numpy, matplotlib, timeit, scikit-learn, lightgbm, catboost |
 | Computer_games_analysis | Изучение рынка компьютерных игр, выявление способствующих продажам факторов | Scipy, numpy, pandas, matplotlib |
 | Customer_churn | Прогнозирование оттока клиентов из банка| Pandas, numpy, matplotlib, scikit-learn |
 | Gold_output_recovery |Прогнозирование коэффициента восстановления золота из золотосодержащей руды| Pandas, numpy, matplotlib, scikit-learn, scipy |
