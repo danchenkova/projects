@@ -18,4 +18,4 @@
 
 В проекте рассмотрено семь моделей: линейная регрессия, гребневая регрессия, дерево решений, случайный лес и три модели градиентного бустинга. В целом, порог RMSE=48 на тестовой выборке преодолели только модели градиентного бустинга, а также случайный лес. Лучшие результаты продемонстрировали CatBoost (RMSE=42.6) и LightGBM (RMSE=42.9).
 
-Используемые библиотеки: pandas, numpy, matplotlib, scikit-learn, lightgbm, catboost, scipy statsmodels.
+Используемые библиотеки: pandas, numpy, matplotlib, scikit-learn, lightgbm, catboost, scipy, statsmodels.
