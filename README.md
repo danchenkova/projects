@@ -14,6 +14,7 @@
 | [Realty_analysis](https://github.com/danchenkova/projects/tree/main/Realty_analysis)| Исследование объявлений о продаже квартир в Санкт-Петербурге и ЛО| Pandas, matplotlib, seaborn |
 | [Tariff_analysis](https://github.com/danchenkova/projects/tree/main/Tariff_analysis)| Определение наиболее прибыльного тарифа для оператора сотовой связи| Pandas, numpy, matplotlib, scipy |
 | [Taxi_orders_predict](https://github.com/danchenkova/projects/tree/main/Taxi_orders_predict)| Прогнозирование количества заказов такси в аэропортах на следующий час| Рandas, numpy, matplotlib, scikit-learn, lightgbm, catboost, scipy, statsmodels |
+| [Telecom_churn](https://github.com/danchenkova/projects/tree/main/Telecom_churn)| Прогнозирование оттока клиентов для оператора связи| Рandas, numpy, matplotlib, seaborn, scikit-learn, lightgbm, tensorflow, keras, scipy |
 | [Toxic_text_classification](https://github.com/danchenkova/projects/tree/main/Toxic_text_classification)| Классификация комментариев пользователей сервиса интернет-магазина на токсичные и нетоксичные| Torch, transformers, pandas, matplotlib, scikit-learn, re, nltk, spacy |
 
 <div>Проекты выполнены в рамках обучения по программе Специалист по Data Science,</div>
