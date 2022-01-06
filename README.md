@@ -3,6 +3,7 @@
 
 | Название папки | Описание     | Используемые библиотеки |
 | :---------------------| :------------------------------------------------------------------------|:------------------------|
+| [Bank_credit](https://github.com/danchenkova/projects/tree/main/Bank_credit) | Выявление значимых факторов для оценки кредитоспособности заемщика  | Pandas, matplotlib, seaborn, pymorphy2, phik |
 | [Car_price_determ](https://github.com/danchenkova/projects/tree/main/Car_price_determ) | Прогнозирование рыночной стоимости автомобиля для сервиса продажи машин | Pandas, numpy, matplotlib, timeit, scikit-learn, lightgbm, catboost |
 | [Computer_games_analysis](https://github.com/danchenkova/projects/tree/main/Computer_games_analysis) | Изучение рынка компьютерных игр, выявление способствующих продажам факторов | Scipy, numpy, pandas, matplotlib |
 | [Customer_churn](https://github.com/danchenkova/projects/tree/main/Customer_churn)| Прогнозирование оттока клиентов из банка| Pandas, numpy, matplotlib, scikit-learn |
